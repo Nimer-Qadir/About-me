@@ -1,4 +1,4 @@
-👋 Hi, I’m @Nimer_Qadir
+👋 Hi, I’m @Nimer-Qadir
 👀I’m interested in c++,DSA,Algorithms and front-end web dev
 🌱 I’m currently learning DSA and front-end web dev.
 💞️ I’m looking to collaborate on students with same interests
